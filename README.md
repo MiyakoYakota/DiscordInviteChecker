@@ -19,6 +19,6 @@ For a default 6 character long invite code, that would be a `1/56,800,235,584` (
 This is a number that can be hard to cut down. Currently, the checker will guess willy-nilly. Future updates may include tracking for used codes. 
 
 ## TODO:
-Webhooks
-Used codes tracking
-Including server information in results
+- Webhooks
+- Used codes tracking
+- Including server information in results
